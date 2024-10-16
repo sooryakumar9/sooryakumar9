@@ -6,7 +6,7 @@ Software Developer in Training | Tech Enthusiast
 
 I’m a Computer Science student with a strong foundation in programming, algorithms, and software development. I’m eager to contribute to innovative projects and gain hands-on experience, leveraging my problem-solving abilities. I’m committed to continuous learning and am ready to collaborate with experienced professionals to advance my career in the Information Technology industry.
 
-* 🌍  I'm based in Bengaluru, India.
+* 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [skkumarsoorya@gmail.com](mailto:skkumarsoorya@gmail.com)
 * 🧠  I'm learning React and Node.js
 * 🤝  I'm open to collaborating on Innovative projects that push the boundaries of technology.
@@ -34,11 +34,3 @@ src="https://img.shields.io/github/followers/sooryakumar9?logo=github&style=for-
 <a href="http://www.github.com/sooryakumar9"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sooryakumar9&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/sooryakumar9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooryakumar9&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/sooryakumar9/ds-programs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sooryakumar9&repo=ds-programs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sooryakumar9/ada-programs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sooryakumar9&repo=ada-programs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/sooryakumar9/java-programs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sooryakumar9&repo=java-programs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
